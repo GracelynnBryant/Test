@@ -52,6 +52,7 @@ function buildLayoutContainer(main) {
     wrapper.append(leftDiv, rightDiv);
     section.append(wrapper);
   });
+  export function decorateMain(main) {
 }
 
 /**
