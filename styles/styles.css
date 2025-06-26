@@ -254,7 +254,8 @@ main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
-    /* Section Columns */
+}
+/* Section Columns */
 /*  stylelint-disable no-descending-specificity */
 
 @media (width >= 900px ) {
@@ -339,5 +340,4 @@ main .section.highlight {
       margin-right: 20px;
     }
   }
-}
 }
