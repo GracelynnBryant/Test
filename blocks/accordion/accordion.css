@@ -23,6 +23,7 @@
 
 .accordion details[open] summary {
   background-color: var(--light-color);
+  color: #ffffff
 }
 
 .accordion details summary:focus,
