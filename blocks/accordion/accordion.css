@@ -19,6 +19,7 @@
   list-style: none;
   overflow: auto;
   transition: background-color 0.2s;
+    background-color:#286684;
 }
 
 .accordion details[open] summary {
