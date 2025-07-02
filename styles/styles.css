@@ -252,8 +252,8 @@ main > .section:first-of-type {
 main .section.light,
 main .section.highlight {
   background-color: #DBDBDB;
-  margin: 0;
-  padding: 10px 0;
+  margin: 10px;
+  padding: 40px 0;
 
 }
 
