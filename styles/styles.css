@@ -251,11 +251,10 @@ main > .section:first-of-type {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: var(--light-color);
+  background-color: #DBDBDB;
   margin: 0;
-  padding: 40px 0;
-main.section.focus {
-    background-color:#DBDBDB ;
+  padding: 10px 0;
+
 }
 
 /* Section Columns */
