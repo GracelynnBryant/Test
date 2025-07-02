@@ -236,11 +236,11 @@ main > .section > div {
   max-width: 1200px;
   margin: auto;
   padding: 0 24px;
-  background-color:#DBDBDB;
 }
 
 main > .section:first-of-type {
   margin-top: 0;
+  background-color:#DBDBDB;
 }
 
 @media (width >= 900px) {
