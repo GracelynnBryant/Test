@@ -249,7 +249,10 @@ main > .section:first-of-type {
 }
 
 /* section metadata */
-main .section.light,
+main .section.light, {
+  text-align: center;
+
+}  
 main .section.highlight {
   background-color: #DBDBDB;
   margin: 10px 10px 10px 10px;
